@@ -1,0 +1,6 @@
+{
+    "win32_chromedriver_latest_for_112.0.5615": {
+        "timestamp": "23/06/2023",
+        "binary_path": "./chromedriver\\.wdm\\drivers\\chromedriver\\win32\\112.0.5615.49\\chromedriver.exe"
+    }
+}
